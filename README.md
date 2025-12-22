@@ -1,5 +1,5 @@
 <h1 align="center">Hi (╯°□°)╯︵ ┻━┻, I'm Jhanell</h1>
-<h3 align="center">When in doubt stephen curry</h3>
+<h3 align="center">When in doubt stephen curry, 👧Komypansa</h3>
 
 - 🔭 I’m currently working on **bijou-api**
 
