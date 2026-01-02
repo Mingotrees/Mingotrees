@@ -14,7 +14,7 @@
 ---
 
 # 💹 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mingotrees&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingotrees)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mingotrees&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 # 🔧 Tech Stack:
