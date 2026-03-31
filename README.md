@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **where stuff is in my dsa repo**
 
-- ⚡ Fun fact **Sound is faster than Light "HA"**
 <p align="left">
 </p>
 
